@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Design](./images/Desktop%20Design.png.jpg)
+![Desktop Design](/images/Desktop%20Design.png?raw=true "Optional Title")
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://product-preview-card-component-lebrin-ay.vercel.app/)
 
 ## My process
 
